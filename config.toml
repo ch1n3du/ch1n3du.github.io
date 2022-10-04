@@ -6,7 +6,7 @@ theme = "PaperMod"
 [params]
 showBreadCrumbs = true
 showReadingTime = true
-# showShareButtons = true
+showShareButtons = true
 showPostNavLinks = true
 showCodeCopyButtons = true
 
