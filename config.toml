@@ -1,4 +1,4 @@
-baseURL = 'https://ch1n3du.github.io/Ch1n3du/'
+baseURL = 'https://ch1n3du.github.io/'
 languageCode = 'en-us'
 title = "pico adventures"
 theme = "PaperMod"
