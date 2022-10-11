@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2022-10-11T14:54:30+01:00
-draft: true
+draft: false
 showBreadCrumbs: false
 ---
 
