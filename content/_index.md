@@ -8,7 +8,7 @@ hideMeta: false
 url: /
 ---
 
-# Hello strangerr
+# Hello stranger
 
 {{< figure
     src="/room.gif"
