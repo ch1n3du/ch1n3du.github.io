@@ -1,21 +1,21 @@
 baseURL = 'https://ch1n3du.github.io/'
 languageCode = 'en-us'
-title = "ch1n3du's pico adventures"
+title = "pico adventures"
 theme = "PaperMod"
 
 [params]
+env = "production"
 showBreadCrumbs = true
 showReadingTime = true
 # showShareButtons = true
 showPostNavLinks = true
 showCodeCopyButtons = true
+showToc = true
 
-[params.homeInfoParams]
-# Title = "Hello Stranger,"
-# Content = """
-# You've stumbled upon my distant shores, herein I try time and time again to fight my boredom.
-# 
-# """
+
+# [params.homeInfoParams]
+# Title = "Hello stranger"
+# Content = """"""
 
 [[params.socialIcons]]
 name = "twitter"
@@ -31,17 +31,17 @@ url = ""
 
 [menu]
 [[menu.main]]
-identifier = "About"
-name = "About"
+identifier = "about"
+name = "about"
 url = "/"
 weight = 20
 
 [[menu.main]]
-identifier = "Posts"
-name = "Posts"
+identifier = "posts"
+name = "posts"
 url = "/posts/"
 
 [[menu.main]]
-identifier = "Projects"
-name = "Projects"
+identifier = "projects"
+name = "projects"
 url = "/projects/"
