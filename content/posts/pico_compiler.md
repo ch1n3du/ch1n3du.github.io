@@ -1,7 +1,7 @@
 ---
-title: "Resources on Compilers and Interpreters"
+title: "Cool Resources on Compilers and Interpreters"
 date: 2022-11-19T20:12:51+01:00
-draft: true
+draft: false
 showTOC: false
 ---
 
