@@ -11,7 +11,7 @@ url: /
 # Hello stranger
 
 {{< figure
-    src="/room.gif"
+    src="/gifs/room.gif"
     caption="my lab"
     align="center"
 >}}

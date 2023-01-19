@@ -8,7 +8,7 @@ showBreadCrumbs: false
 I love building stuff weird stuff.
 
 {{< figure
-    src="/stumble_to_desk.gif"
+    src="/gifs/stumble_to_desk.gif"
     caption="**source:** live footage of me after class"
     align="center"
 >}}
