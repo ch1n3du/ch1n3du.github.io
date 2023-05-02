@@ -3,6 +3,8 @@ title: "Cool Resources on Compilers and Interpreters"
 date: 2022-11-19T20:12:51+01:00
 draft: false
 showTOC: false
+cover:
+  image: /images/compiler_resources.png
 ---
 
 Full disclosure, I'm no expert I just really like programming languages.
