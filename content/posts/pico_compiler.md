@@ -67,6 +67,10 @@ and feel it's not well suited for writing languages.
 
   Example repo for using Cranelift for writing a JIT-compiled language.
 
+### Optimization
+
+- **[Compiling Brainfuck code](https://rodrigodd.github.io/2022/10/21/bf_compiler-part1.html)**
+
 ### Miscellaneous
 
 - **[An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)**
