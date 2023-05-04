@@ -69,7 +69,7 @@ and feel it's not well suited for writing languages.
 
 ### Optimization
 
-- **[Compiling Brainfuck code](https://rodrigodd.github.io/2022/10/21/bf_compiler-part1.html)**
+- **[Compiling Brainfuck code]("https://rodrigodd.github.io/2022/10/21/bf_compiler-part1.html")** 
 
 ### Miscellaneous
 
