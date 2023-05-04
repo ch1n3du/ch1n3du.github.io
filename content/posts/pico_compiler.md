@@ -7,7 +7,7 @@ cover:
   image: /images/compiler_resources.png
 ---
 
-Full disclosure, I'm no expert I just really like programming languages.
+**Full disclosure:** I'm no expert I just really like programming languages.
 I use Rust and so a lot of resources
 here will be geared towards that but hopefully the knowledge is general enough to be translated to your language of preference.
 
