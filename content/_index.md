@@ -16,9 +16,9 @@ url: /
     align="center"
 >}}
 
-👨🏾‍💻 I'm Chinedu (he/him) and I'm a third-year Computer Science major. I love music, reading and coding.
-
 You've stumbled upon my distant digital shores.
+👨🏾‍💻 I'm Chinedu (he/him), a third-year Computer Science major. I love [music](https://open.spotify.com/user/fqraod4cfhehdlzzw05rpy56n?si=50dd1617d87d42fa), [reading](https://www.goodreads.com/user/show/63564241-ch1n3du) and [coding](https://github.com/Ch1n3du).
+
 I love building stuff that's low level and cool.
 Have a look [here](/projects).
 
