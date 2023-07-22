@@ -34,6 +34,7 @@ I write about the stuff I've built [here](/projects). For a better look checkout
 
 ## contacts
 
-You can hit me up on [twitter](https://twitter.com/ch1n3du3), discord at `Ch1n3du#7350` or .
+You can hit me up on [twitter](https://twitter.com/ch1n3du3), discord at `Ch1n3du#7350` or
+email me at <a href="mailto:danielonyesoh@gmail.com">danielonyesoh@gmail.com</a>.
 
 ----
