@@ -69,7 +69,15 @@ and feel it's not well suited for writing languages.
 
 ### Optimization
 
-- **[Compiling Brainfuck code]("https://rodrigodd.github.io/2022/10/21/bf_compiler-part1.html")** 
+- **[Compiling Brainfuck code]("https://rodrigodd.github.io/2022/10/21/bf_compiler-part1.html")**
+
+### Pattern Matching
+
+- **[A deep dive into coverage checkers for pattern matching](https://dev.to/algebraic-sofia/a-deep-dive-into-coverage-checkers-for-pattern-matching-562g)**
+
+### Great Blogs
+
+- **[Fernando Boretti's blog](https://borretti.me/article/)**
 
 ### Miscellaneous
 
